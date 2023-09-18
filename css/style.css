@@ -51,7 +51,29 @@ a {
 }
 
 section {
-    margin-top: 16px;
+    margin-top: 2%;
+}
+
+.highlighted {
+    background-color: yellow;
+}
+
+.column {
+    text-align: left;
+    width: 25%;
+}
+
+.tablehead {
+    background-color: rgb(31, 145, 210);
+    color: white;
+}
+
+.tablebodyodd {
+    background-color: rgb(179, 235, 255);
+}
+
+.tablebodyeven {
+    background-color: white;
 }
 
 

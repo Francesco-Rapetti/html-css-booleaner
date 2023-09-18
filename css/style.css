@@ -37,7 +37,7 @@ h1 {
     margin-bottom: 0px;
 }
 
-#credit, #date {
+.credit, #date {
     color: gray;
 }
 
@@ -76,6 +76,32 @@ section {
     background-color: white;
 }
 
+#monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+#graph {
+    background-image: url(../img/graph.jpg);
+}
+
+#graph, #monitor {
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 150px;
+    width: 200px;
+}
+
+.imagetext {
+    color: white;
+    margin: 0;
+    padding: 3%;
+    padding-bottom: 50%;
+}
+
+footer {
+    margin-top: 4%;
+    margin-left: 1%;
+}
 
 
 

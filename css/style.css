@@ -2,6 +2,7 @@
 
 body {
     margin: 0%;
+    font-family: 'DM Serif Text', serif;
 }
 
 header {
@@ -24,12 +25,36 @@ main {
 }
 
 h1 {
-    font-family: 'DM Serif Text', serif;
     font-size: 230%;
-    font-weight: 400;
+    font-weight: 600;
     margin-top: 16px;
-    
+    margin-bottom: 0px;
 }
+
+.caption {
+    font-size: 80%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#credit, #date {
+    color: gray;
+}
+
+#date {
+    font-size: 70%;
+}
+
+a {
+    color: rgb(48, 179, 255);
+    text-decoration: none;
+}
+
+section {
+    margin-top: 16px;
+}
+
+
 
 
 

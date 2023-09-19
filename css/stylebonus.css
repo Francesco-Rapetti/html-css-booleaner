@@ -40,6 +40,8 @@ h1 {
 
 .credit, #date {
     color: gray;
+    margin-block-start: 0;
+    margin-block-end: 0;
 }
 
 #date {

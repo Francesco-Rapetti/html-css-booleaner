@@ -69,6 +69,10 @@ section {
     width: 25%;
 }
 
+.finalcolumn {
+    text-align: left;
+}
+
 .tablehead {
     background-color: rgb(31, 145, 210);
     color: white;
@@ -80,6 +84,10 @@ section {
 
 .tablebodyeven {
     background-color: white;
+}
+
+table {
+    border-collapse: collapse;
 }
 
 #monitor {

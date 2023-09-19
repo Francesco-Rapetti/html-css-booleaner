@@ -31,6 +31,10 @@ h1 {
     margin-bottom: 0px;
 }
 
+figcaption {
+    font-size: 80%;
+}
+
 .caption {
     font-size: 80%;
     margin-top: 0px;
